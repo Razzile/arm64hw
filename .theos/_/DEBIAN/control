@@ -1,0 +1,11 @@
+Package: org.satorify.arm64hw
+Name: arm64hw
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: callum taylor
+Author: callum taylor
+Section: System
+Tag: role::hacker
+Version: 0.0.1-3+debug
+Installed-Size: 68
